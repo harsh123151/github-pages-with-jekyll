@@ -1,5 +1,9 @@
----
-title: "Welcome to my blog"
----
-
-I'm glad you are here. I plan to talk about ...
+<html>
+<head>
+  <title>Github Pages</title>  
+</head>
+<body>
+    <h1>This is my first github page.... </h1>
+    <h3>I am Learning Github pages</h3>
+</body>
+</html>
